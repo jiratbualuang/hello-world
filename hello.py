@@ -1,1 +1,1 @@
-print("Jirat")
+print("bualuang")
